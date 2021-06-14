@@ -22,7 +22,7 @@ sections:
       background_color: white
       background_image: /images/pexels-paul-voie-2852500.jpg
       background_image_opacity: 50
-      background_image_size: contain
+      background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
     title: What we can do for you
