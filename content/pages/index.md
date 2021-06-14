@@ -54,7 +54,7 @@ sections:
           We can handle hosting your website and maintaining them for you to
           keep up with software updates and bug removal.
         align: left
-        image: /images/noun_website_3967213.png
+        image: /images/noun_Website Maintenance_3085914.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
