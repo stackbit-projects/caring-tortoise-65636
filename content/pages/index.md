@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Helping coffee shops generate customers
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Helping coffee shops build an online presence and using digital marketing
+      strategies to generate more leads.
     actions:
       - label: Learn More
         url: /features
