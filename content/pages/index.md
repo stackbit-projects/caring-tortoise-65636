@@ -19,7 +19,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: white
+      background_color: gray
       background_image: /images/pexels-paul-voie-2852500.jpg
       background_image_opacity: 25
       background_image_size: cover
