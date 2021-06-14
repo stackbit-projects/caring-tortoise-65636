@@ -21,7 +21,7 @@ sections:
     background:
       background_color: gray
       background_image: /images/pexels-negative-space-34085 (1).jpg
-      background_image_opacity: 20
+      background_image_opacity: 40
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
