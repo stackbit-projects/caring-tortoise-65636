@@ -7,7 +7,7 @@ sections:
       Helping coffee shops build an online presence and using digital marketing
       strategies to generate more leads.
     actions:
-      - label: Learn More
+      - label: Contact Us
         url: /features
         style: primary
       - label: Contact Us
