@@ -51,8 +51,8 @@ sections:
             style: secondary
       - title: Website Maintenance
         content: >
-          Host your website and maintain them for you. Software updates and bug
-          removal.
+          We can handle hosting your website and maintaining them for you to
+          keep up with software updates and bug removal.
         align: left
         image: /images/noun_website_3967213.png
         image_alt: Feature 3 placeholder image
