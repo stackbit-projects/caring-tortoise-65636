@@ -20,7 +20,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: Social Media
+      - title: Digital Marketing
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
