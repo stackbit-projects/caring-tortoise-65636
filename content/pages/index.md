@@ -18,7 +18,7 @@ sections:
     background:
       background_color: gray
       background_image: /images/pexels-shonejai-1227511.jpg
-      background_image_opacity: 20
+      background_image_opacity: 40
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
