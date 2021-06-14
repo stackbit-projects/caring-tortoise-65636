@@ -51,10 +51,9 @@ sections:
             url: /features
             style: secondary
       - title: Website Maintenance
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Host your website and maintain them for you. Software updates and bug
+          removal.
         align: left
         image: /images/noun_website_3967213.png
         image_alt: Feature 3 placeholder image
