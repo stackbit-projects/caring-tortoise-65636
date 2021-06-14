@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Services
     features:
-      - title: Feature 1
+      - title: Web Design
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
