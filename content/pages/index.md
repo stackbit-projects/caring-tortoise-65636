@@ -17,7 +17,7 @@ sections:
     has_background: true
     background:
       background_color: gray
-      background_image: /images/pexels-tim-mossholder-1154739.jpg
+      background_image: /images/pexels-shonejai-1227511.jpg
       background_image_opacity: 20
       background_image_size: cover
       background_image_repeat: no-repeat
