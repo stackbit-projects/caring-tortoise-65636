@@ -21,7 +21,7 @@ sections:
     background:
       background_color: gray
       background_image: /images/pexels-tim-mossholder-1154739.jpg
-      background_image_opacity: 30
+      background_image_opacity: 20
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
