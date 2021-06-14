@@ -21,7 +21,7 @@ sections:
     background:
       background_color: white
       background_image: /images/pexels-paul-voie-2852500.jpg
-      background_image_opacity: 70
+      background_image_opacity: 60
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
