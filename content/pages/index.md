@@ -72,9 +72,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Let's connect over virtual coffee
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Usually responds within 24 hours.
     actions:
       - label: Learn More
         url: /features
