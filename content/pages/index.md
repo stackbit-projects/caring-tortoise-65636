@@ -38,9 +38,9 @@ sections:
             style: secondary
       - title: Digital Marketing
         content: >
-          Websites that are not just beautiful but fast, secure, and effective
-          at generating the right traffic to your business using digital
-          marketing strategies, social media marketing, Pap-per-click, and Ads.
+          Own beautiful websites that are fast, secure, and effective at
+          generating the right traffic to your business using digital marketing
+          strategies, social media marketing, Pap-per-click, and Ads.
         align: left
         image: /images/noun_SEO_1877901.png
         image_alt: Feature 2 placeholder image
