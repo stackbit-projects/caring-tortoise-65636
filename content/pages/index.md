@@ -25,10 +25,9 @@ sections:
     title: What we can do for you
     features:
       - title: Web Design
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Own beautiful websites that are fast to load, secure, and effectively
+          generate traffic.
         align: left
         image: /images/noun_web design_3456393.png
         image_alt: Feature 1 placeholder image
