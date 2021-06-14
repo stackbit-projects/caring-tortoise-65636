@@ -37,10 +37,9 @@ sections:
             url: /features
             style: secondary
       - title: Digital Marketing
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Websites that are not just beautiful but fast, secure, and effective.
+          Websites that are not just beautiful but fast, secure, and effective.
         align: left
         image: /images/noun_SEO_1877901.png
         image_alt: Feature 2 placeholder image
