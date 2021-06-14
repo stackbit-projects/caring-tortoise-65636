@@ -10,9 +10,6 @@ sections:
       - label: Contact Us
         url: /features
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: /images/pexels-andrea-piacquadio-3796810.jpg
     image_alt: Hero placeholder image
