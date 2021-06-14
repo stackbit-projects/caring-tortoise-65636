@@ -26,8 +26,8 @@ sections:
     features:
       - title: Web Design
         content: >
-          Own beautiful websites that are fast to load, secure, and effectively
-          generate traffic.
+          Own beautiful websites that are fast to load, secure, and effective at
+          generating the right traffic to your business.
         align: left
         image: /images/noun_web design_3456393.png
         image_alt: Feature 1 placeholder image
