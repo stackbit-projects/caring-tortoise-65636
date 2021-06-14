@@ -38,8 +38,8 @@ sections:
             style: secondary
       - title: Digital Marketing
         content: >
-          Websites that are not just beautiful but fast, secure, and effective.
-          Websites that are not just beautiful but fast, secure, and effective.
+          Websites that are not just beautiful but fast, secure, and effective
+          at generating the right traffic to your business.
         align: left
         image: /images/noun_SEO_1877901.png
         image_alt: Feature 2 placeholder image
