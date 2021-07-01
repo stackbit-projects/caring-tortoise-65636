@@ -90,7 +90,7 @@ seo:
       value: The preview of the Starter theme
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: /_static/app-assets/images/clever-sunflower.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
