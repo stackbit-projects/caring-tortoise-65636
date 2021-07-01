@@ -9,7 +9,9 @@ tags:
   - JAMstack
   - Sourcebit
 image_alt: Post 4 placeholder image
-excerpt: No wonder
+excerpt: >-
+  Drinking coffee does more than just give you an energy boost! Here are 5
+  benefits coffee has to offer.
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
