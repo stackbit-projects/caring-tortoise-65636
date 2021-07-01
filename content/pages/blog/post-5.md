@@ -1,6 +1,6 @@
 ---
 title: 5 Ways To Grow Your Coffee Business Online
-date: '2021-06-30'
+date: '2021-07-30'
 author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/tutorials.yaml
