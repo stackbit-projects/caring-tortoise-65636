@@ -41,28 +41,7 @@ seo:
 layout: post
 image: /images/pexels-david-alberto-carmona-coto-1151418.jpg
 ---
-5 Ways To Grow Your Coffee Business Online
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 5 Ways To Grow Your Coffee Business Online
 
 In 2020/2021, around 166.63 million 60 kilogram bags of **coffee** were consumed **worldwide**, a slight increase from 164 million bags in the previous year according to Statista.
 
