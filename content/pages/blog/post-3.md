@@ -7,7 +7,6 @@ categories:
 tags:
   - Stackbit
   - JAMstack
-image: /images/mighty-comet.jpg
 image_alt: Post 3 placeholder image
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
