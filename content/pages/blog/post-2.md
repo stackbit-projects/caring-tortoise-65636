@@ -1,6 +1,6 @@
 ---
 title: Why Every coffee shop Needs A Website
-date: '2020-05-25'
+date: '2021-05-25'
 author: content/data/team/miles-tone.yaml
 categories:
   - content/data/categories/news.yaml
