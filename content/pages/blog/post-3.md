@@ -1,6 +1,6 @@
 ---
 title: Why Every Coffee Shop Needs A Website
-date: '2020-05-28'
+date: '2020-04-28'
 author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/general.yaml
