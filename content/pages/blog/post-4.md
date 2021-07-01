@@ -1,5 +1,5 @@
 ---
-title: 5 Health benfits of coffee
+title: 5 Health Benfits of Coffee
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
