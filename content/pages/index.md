@@ -87,7 +87,9 @@ seo:
       value: Coffee Bean Marketing
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: >-
+        Helping coffee shops with digital marketing solutions that will generate
+        traffic to their business.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/clever-sunflower.jpg
