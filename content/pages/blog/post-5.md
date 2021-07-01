@@ -37,8 +37,8 @@ seo:
 layout: post
 image: /images/pexels-david-alberto-carmona-coto-1151418.jpg
 excerpt: >-
-  These are 5 great points that will help your coffee business be successful.
-  Read more to see how to boost your business. 
+  These are five great points that will help your coffee business be successful.
+  Read more to see how to boost your business.
 ---
 In 2020/2021, around 166.63 million 60 kilogram bags of coffee were consumed worldwide, a slight increase from 164 million bags in the previous year according to Statista.
 
