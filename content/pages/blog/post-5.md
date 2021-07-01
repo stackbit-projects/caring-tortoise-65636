@@ -41,7 +41,7 @@ seo:
 layout: post
 image: /images/pexels-david-alberto-carmona-coto-1151418.jpg
 ---
-In 2020/2021, around 166.63 million 60 kilogram bags of **coffee** were consumed **worldwide**, a slight increase from 164 million bags in the previous year according to Statista.
+In 2020/2021, around 166.63 million 60 kilogram bags of coffee were consumed worldwide, a slight increase from 164 million bags in the previous year according to Statista.
 
 Coffee is obviously a popular beverage loved by many, but you can’t rely on its popularity alone to help your coffee business to thrive in the long run.
 
