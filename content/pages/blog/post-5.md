@@ -49,14 +49,16 @@ Focusing on your promotion and marketing strategy will help your coffee business
 
 If you’re looking for a way to boost your sales, start with these five effective strategies to get your business on the map.
 
-Online presence
+### Online presence
+
+
 Make sure you have a strong online presence.
 
 This includes a well-designed, easy-to-navigate website that shows what you have to offer and encourages people to take a specific action rather that be ordering coffee beans, visiting your store, or signing up for your newsletter.
 
 You also should establish a social media presence by creating profiles on popular social media platforms such as Instagram, Facebook, and Twitter. Posting and engaging with followers will build brand loyalty .
 
-CONTENT MARKETING
+### CONTENT MARKETING
 
 Content marketing includes useful material involving blogging, videos or podcasts that leads customers to your website. Putting out helpful and informative content that relates to coffee brewing methods, drink recipes, and new roasting trends attracts website visitors. Blogs or videos that feature your product are great advertisements as well.
 
@@ -64,20 +66,24 @@ While creating useful content, think about whether this is something your potent
 
 Be consistent in releasing content, so your visitors have a reason to come back to your website and become a return customer. You create trust when you establish your brand as an authority on coffee trends, the best appliances to enhance taste and texture, or guides on grinding consistency. Create a schedule for your content and the measures you will take to market your website.
 
-Encourage reviews
+### Encourage reviews
+
+
 Encourage customers to leave reviews online for your coffee business.
 
 Having people spread positive messages about your business will work wonders for attracting new customers.
 
 You can even consider offering an incentive for people who leave reviews. For example, if they show you their review when you’re ringing them up, they can get a small discount on their purchase. 
 
-OFFER INCENTIVES AND REWARDS 
+### OFFER INCENTIVES AND REWARDS 
 
 Create loyalty by treating your returning customers differently. Customers loyal to your brand are more likely to recommend your coffee business to others, talk about it on social media, and be a recurring source of revenue. To get them to purchase more coffee, offer special discounts on products or rewards once they buy a certain amount.
 
 Free shipping is a powerful incentive. Whether you choose to give free shipping to returning customers or to those purchasing $50 worth of coffee, the offer is a compelling way to boost sales. Loyalty programs begin a cycle that serves your business and your customers.
 
-Get involved
+### Get Involved
+
+
 Getting involved in the community is another great way to spread the word about your business. Look for ways that you can help out your neighbors and promote your store or shop at the same time.
 
 You could partner with a local charity or set up a booth at a local event. Or host coffee classes to teach people how to choose the best beans or learn about different types of coffee. 
