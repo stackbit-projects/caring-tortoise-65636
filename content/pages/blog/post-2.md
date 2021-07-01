@@ -8,7 +8,7 @@ categories:
 tags:
   - Jamstack
   - Netlify
-image: /images/magical-daffodil.jpg
+image: /images/pexels-daria-obymaha-1684151 (1).jpg
 image_alt: Post 2 placeholder image
 excerpt: >-
   Nowadays, everybody has a website. Even your competitors! Find out why having
