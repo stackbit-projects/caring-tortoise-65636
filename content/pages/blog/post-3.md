@@ -9,9 +9,8 @@ tags:
   - JAMstack
 image_alt: Post 3 placeholder image
 excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+  Nowadays, everybody has a website, even your competitors! Find out the
+  benefits of having a website for your coffee business.
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
