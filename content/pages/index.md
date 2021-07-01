@@ -78,7 +78,7 @@ seo:
   title: Coffe Bean Marketing
   description: >-
     Helping coffee shops with digital marketing solutions that will generate
-    traffic.
+    traffic to their business.
   extra:
     - name: 'og:type'
       value: website
