@@ -67,7 +67,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; 2021 <a style=\"\" href=\"www.aonewebconsulting.com\" target=\"_blank\" rel=\"noopener\">A ONE WEB CONSULTING LLC</a>"
+        "content": "&copy; 2021 <a style=\"text-decoration: none\" href=\"www.aonewebconsulting.com\" target=\"_blank\" rel=\"noopener\">A ONE WEB CONSULTING LLC</a>"
     },
     "domain": "https://caring-tortoise-65636.netlify.app"
 }
