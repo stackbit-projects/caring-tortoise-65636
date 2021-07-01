@@ -8,7 +8,7 @@ tags:
   - Stackbit
   - Netlify
 image: /images/pexels-daria-obymaha-1684151.jpg
-image_alt: Post 5 placeholder image
+image_alt: coffee a
 excerpt: >-
   Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
