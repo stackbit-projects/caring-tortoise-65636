@@ -41,9 +41,66 @@ seo:
 layout: post
 image: /images/pexels-david-alberto-carmona-coto-1151418.jpg
 ---
+5 Ways To Grow Your Coffee Business Online
 
-Donec ultrices tincidunt arcu non sodales neque. Et netus et malesuada fames ac turpis egestas sed tempus. Cras pulvinar mattis nunc sed. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Posuere ac ut consequat semper viverra nam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci eu lobortis elementum nibh. Senectus et netus et malesuada fames ac turpis egestas integer. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sed nisi lacus sed viverra tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
 
-Sem et tortor consequat id porta. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Amet nulla facilisi morbi tempus. Blandit massa enim nec dui nunc mattis. Non enim praesent elementum facilisis leo vel fringilla est. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nunc lobortis mattis aliquam faucibus purus. Volutpat ac tincidunt vitae semper quis. Cursus eget nunc scelerisque viverra mauris. Purus semper eget duis at tellus at urna. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nunc non blandit massa enim nec. Ut porttitor leo a diam sollicitudin.
 
-Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magna fermentum iaculis eu non. At consectetur lorem donec massa sapien faucibus et. Est placerat in egestas erat imperdiet sed euismod nisi porta. Lacus vel facilisis volutpat est velit egestas dui. Sapien pellentesque habitant morbi tristique senectus et. Ut tellus elementum sagittis vitae et. Et malesuada fames ac turpis. Volutpat commodo sed egestas egestas. Praesent tristique magna sit amet purus gravida quis. Turpis egestas pretium aenean pharetra.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In 2020/2021, around 166.63 million 60 kilogram bags of **coffee** were consumed **worldwide**, a slight increase from 164 million bags in the previous year according to Statista.
+
+Coffee is obviously a popular beverage loved by many, but you can’t rely on its popularity alone to help your coffee business to thrive in the long run.
+
+Focusing on your promotion and marketing strategy will help your coffee business to succeed. 
+
+If you’re looking for a way to boost your sales, start with these five effective strategies to get your business on the map.
+
+Online presence
+Make sure you have a strong online presence.
+
+This includes a well-designed, easy-to-navigate website that shows what you have to offer and encourages people to take a specific action rather that be ordering coffee beans, visiting your store, or signing up for your newsletter.
+
+You also should establish a social media presence by creating profiles on popular social media platforms such as Instagram, Facebook, and Twitter. Posting and engaging with followers will build brand loyalty .
+
+CONTENT MARKETING
+
+Content marketing includes useful material involving blogging, videos or podcasts that leads customers to your website. Putting out helpful and informative content that relates to coffee brewing methods, drink recipes, and new roasting trends attracts website visitors. Blogs or videos that feature your product are great advertisements as well.
+
+While creating useful content, think about whether this is something your potential customers would want to pass on to their friends and acquaintances. If so, when producing posts or videos make it shareable.
+
+Be consistent in releasing content, so your visitors have a reason to come back to your website and become a return customer. You create trust when you establish your brand as an authority on coffee trends, the best appliances to enhance taste and texture, or guides on grinding consistency. Create a schedule for your content and the measures you will take to market your website.
+
+Encourage reviews
+Encourage customers to leave reviews online for your coffee business.
+
+Having people spread positive messages about your business will work wonders for attracting new customers.
+
+You can even consider offering an incentive for people who leave reviews. For example, if they show you their review when you’re ringing them up, they can get a small discount on their purchase. 
+
+OFFER INCENTIVES AND REWARDS 
+
+Create loyalty by treating your returning customers differently. Customers loyal to your brand are more likely to recommend your coffee business to others, talk about it on social media, and be a recurring source of revenue. To get them to purchase more coffee, offer special discounts on products or rewards once they buy a certain amount.
+
+Free shipping is a powerful incentive. Whether you choose to give free shipping to returning customers or to those purchasing $50 worth of coffee, the offer is a compelling way to boost sales. Loyalty programs begin a cycle that serves your business and your customers.
+
+Get involved
+Getting involved in the community is another great way to spread the word about your business. Look for ways that you can help out your neighbors and promote your store or shop at the same time.
+
+You could partner with a local charity or set up a booth at a local event. Or host coffee classes to teach people how to choose the best beans or learn about different types of coffee. 
