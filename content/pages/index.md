@@ -75,7 +75,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Coffe Bean Marketing
+  title: Coffee Bean Marketing
   description: >-
     Helping coffee shops with digital marketing solutions that will generate
     traffic to their business.
