@@ -92,7 +92,7 @@ seo:
         traffic to their business.
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/clever-sunflower.jpg
+      value: /_static/app-assets/images/wonderful-amaranth.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
