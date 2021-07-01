@@ -10,7 +10,7 @@ tags:
   - Sourcebit
 image_alt: Post 4 placeholder image
 excerpt: >-
-  Drinking coffee does more than just give you an energy boost! Here are 5
+  Drinking coffee does more than just give you an energy boost! Here are five
   healthy benefits coffee has to offer.
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
