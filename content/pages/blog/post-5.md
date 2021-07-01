@@ -53,13 +53,13 @@ If you’re looking for a way to boost your sales, start with these five effecti
 
 Make sure you have a strong online presence.
 
-This includes a well-designed, easy-to-navigate website that shows what you have to offer and encourages people to take a specific action rather that be ordering coffee beans, visiting your store, or signing up for your newsletter.
+This includes a well-designed, easy-to-navigate website that shows what you have to offer and encourages people to take a specific action rather than be ordering coffee beans, visiting your store, or signing up for your newsletter.
 
-You also should establish a social media presence by creating profiles on popular social media platforms such as Instagram, Facebook, and Twitter. Posting and engaging with followers will build brand loyalty .
+You also should establish a social media presence by creating profiles on popular social media platforms such as Instagram, Facebook, and Twitter. Posting and engaging with followers will build brand loyalty.
 
 #### **CONTENT MARKETING**
 
-Content marketing includes useful material involving blogging, videos or podcasts that leads customers to your website. Putting out helpful and informative content that relates to coffee brewing methods, drink recipes, and new roasting trends attracts website visitors. Blogs or videos that feature your product are great advertisements as well.
+Content marketing includes useful material involving blogging, videos, or podcasts that leads customers to your website. Putting out helpful and informative content that relates to coffee brewing methods, drink recipes, and new roasting trends attracts website visitors. Blogs or videos that feature your product are great advertisements as well.
 
 While creating useful content, think about whether this is something your potential customers would want to pass on to their friends and acquaintances. If so, when producing posts or videos make it shareable.
 
